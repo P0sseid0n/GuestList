@@ -9,7 +9,7 @@ Aplicação front end de lista de convidados
 ![Pagina inicial](./HomeList.jpg)
 ![Pagina com informações do usuário](./Guest.jpg)
 ![Pagina com informações do usuário (Versão mobile)](./Guest.jpg)
-![Pagina para scanear cartão do usuario](./Scan.jpg)
+![Pagina para scanear cartão do usuario](./Scan.png)
 
 ## Recursos
 
